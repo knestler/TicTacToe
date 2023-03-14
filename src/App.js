@@ -88,7 +88,7 @@ export default function Game() {
         <Board />
       </div>
       <div className='game-info'>
-        ,<ol>{/*TODO*/}</ol>
+        <ol>{/*TODO*/}</ol>
       </div>
     </div>
   );
